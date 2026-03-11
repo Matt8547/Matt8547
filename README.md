@@ -57,8 +57,8 @@ My career in the British Army has given me the soft skills required to be a form
 </div>
 
 ## Projects
+- Network Lab
 - Detection Lab
 - SOC Automation Project
 
 
--->
