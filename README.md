@@ -61,4 +61,8 @@ My career in the British Army has given me the soft skills required to be a form
 - Detection Lab
 - SOC Automation Project
 
-![tryhackme stats](https://raw.githubusercontent.com/<matt.nichols547>/<matt.nichols547>/master/assets/thm_propic.png)
+## TryHackMe
+
+My latest badge:
+
+![TryHackMe Badge](./assets/tryhackme-badge.png)
