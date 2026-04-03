@@ -16,4 +16,5 @@ jobs:
       - uses: p4p1/tryhackme-badge-workflow@main
         with:
           username: "matt.nichols547"
+          image_path: "./assets/thm_propic.png"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
