@@ -65,4 +65,4 @@ My career in the British Army has given me the soft skills required to be a form
 
 My latest badge:
 
-![TryHackMe Badge](./assets/tryhackme-badge.png)
+![TryHackMe Badge](./assets/thm_propic.png)
