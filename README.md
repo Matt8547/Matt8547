@@ -5,7 +5,7 @@ I'm a British Army Veteran currently making a transition to the world of Cyber S
 
 ## Objective
 
-My career in the British Army has given me the soft skills required to be a formidable asset in Cyber Security aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. I will use this platform to develop my technical skills and showcase my achievements. 
+My career in the British Army has given me the personal and soft skills required to be a formidable asset in Cyber Security, aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. I will use this platform to develop my technical skills and showcase my achievements. 
 
 ## Skills
 
