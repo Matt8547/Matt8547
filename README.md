@@ -63,9 +63,10 @@ My career in the British Army has given me the personal and soft skills required
 ## Projects
 <a href="https://github.com/Matt8547/SIEM-Implementation-and-Log-Analysis">Detection Lab</a>|
 
-## My training Timeline
-2024 NCFE Cyber Security L2
-24/25 Defence Cyber Academy Cyber Foundation Pathway
-2025 CompTIA A+
-2026 CompTIA Network+2026 CompTIA IT Operations Specialist
+## My training Timeline   →
+2024 NCFE Cyber Security L2   →
+24/25 Defence Cyber Academy Cyber Foundation Pathway   →
+2025 CompTIA A+   →
+2026 CompTIA Network+2026 CompTIA IT   →
+Operations Specialist 
 
