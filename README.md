@@ -1,7 +1,7 @@
 # Hello, I'm Matt
 <a href="https://www.linkedin.com/in/matthew-nichols-676039334/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a British Army Veteran currently making a transition to the world of Cyber Security with a love for problem solving, computers and technology.
+I'm a British Army Veteran and after 24 years I am making a transition to the world of Cyber Security with a love for problem solving, computers and technology.
 
 ## Objective
 
