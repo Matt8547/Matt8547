@@ -67,6 +67,6 @@ Drawing on 24 years of senior leadership, operational command, and systems manag
 2024 NCFE Cyber Security L2   →
 24/25 Defence Cyber Academy Cyber Foundation Pathway   →
 2025 CompTIA A+   →
-2026 CompTIA Network+2026 CompTIA IT   →
-Operations Specialist 
+2026 CompTIA Network+ →
+2026 CompTIA IT Operations Specialist 
 
