@@ -46,6 +46,7 @@ Drawing on 24 years of senior leadership, operational command, and systems manag
 ## Certifications
 <div>
 
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CISO-E51937?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-E51937?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-E51937?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -53,9 +54,11 @@ Drawing on 24 years of senior leadership, operational command, and systems manag
 <div>
     
 ## In Progress
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
 <img src="https://img.shields.io/badge/-Try%20Hack%20Me%20SAL1-0B5ED7?style=for-the-badge&logo=tryhackme&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20CySA%2B-0055A5?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/-AZ--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
 
