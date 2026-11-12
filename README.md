@@ -51,6 +51,7 @@ Drawing on 24 years of senior leadership, operational command, and systems manag
 <img src="https://img.shields.io/badge/-Network%2B-E51937?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-E51937?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-AI%2B-0B5ED7?&style=for-the-badge&logo=aicerts&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISC2%20CC-003366?style=for-the-badge&logo=shield&logoColor=white" />
 <div>
     
 ## In Progress
