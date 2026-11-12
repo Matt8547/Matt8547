@@ -5,7 +5,7 @@ I'm a British Army Veteran and after 24 years I am making a transition to the wo
 
 ## Objective
 
-My career in the British Army has given me the personal and soft skills required to be a formidable asset in Cyber Security, aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. I will use this platform to develop my technical skills and showcase my achievements. 
+Drawing on 24 years of senior leadership, operational command, and systems management in the British Army culminating as a Warrant Officer Class 2 (WO2), I am transitioning into advanced cybersecurity and defense technology roles. Combining disciplined operational problem-solving, structured telemetry analysis, and hands-on technical labs (Elastic SIEM, Docker, and network hardening), I bring robust leadership maturity to steer incident response, threat hunting, and SOC operations. My goal is to secure a mid-level cybersecurity or SOC role where I can lead high-performing teams, drive rigorous threat triage, and bridge complex technical telemetry with decisive operational action. 
 
 ## Skills
 
